@@ -1,0 +1,13 @@
+.header {
+    background: var(--gray-100);
+    display: flex;
+    justify-content:space-evenly;
+    padding: 1.25rem 0;
+    color: var(--gray-600);
+    font-size: 3rem;
+}
+
+.header img {
+    height: 3rem;
+    color: var(--gray-600)
+}
